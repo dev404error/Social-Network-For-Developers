@@ -1,4 +1,6 @@
-
 {
-    "mongoURI":"mongodb+srv://gadarsh555:ucantcme@devconnector-pppjr.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://gadarsh555:ucantcme@devconnector-pppjr.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecret",
+	"githubClientId": "ad16aca7179768c7ae75",
+	"githubSecret": "a540c266ebd1b18df4df16dcb6587a07ea9b5f8a"
 }
